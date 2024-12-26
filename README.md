@@ -1,14 +1,16 @@
 ## Sales Insights Dashboard for Hardware Supplier Company
 
 ### 🚀 Project Overview
-This project demonstrates a full-fledged Tableau solution for analyzing and predicting sales insights for a hardware supplier company. The project replicates a real-world scenario to provide hands-on experience in **Tableau**, **MySQL**, and **data analytics**, along with soft skills like project management and team collaboration.
+This project demonstrates a full-fledged Tableau solution for analyzing and predicting sales insights for a hardware supplier company. The project replicates a real-world scenario to provide hands-on experience in **Tableau**, **MySQL**, and **data analytics**.
 
 ---
+![image](https://github.com/user-attachments/assets/a4bf8d29-8335-4f46-83b6-86e450203f7c)
+
 
 ### 🏆 Key Features
 - **Sales Insights Dashboard:** A powerful Tableau dashboard for interactive sales analysis and forecasting.
 - **Integrated Data Pipeline:** Data extraction, transformation, and loading using **MySQL**.
-- **Comprehensive Analytics:** Identify trends, predict future sales, and discover key performance metrics.
+- **Comprehensive Analytics:** Identify trends, predict future sales and discover key performance metrics.
 - **Soft Skills Development:** Learn project kickoff using the **AIMS Grid** methodology and collaborate across roles like data engineers, data analysts, and software developers.
 
 ---
@@ -37,7 +39,7 @@ This project demonstrates a full-fledged Tableau solution for analyzing and pred
 ### 🔗 How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/sales-insights-hardware.git
+   git clone https://github.com/VedantPancholi/Tableau_Dashboard.git
    ```
 2. **Set Up the Database:**
    - Import the `db_dump.sql` file into your MySQL server.
